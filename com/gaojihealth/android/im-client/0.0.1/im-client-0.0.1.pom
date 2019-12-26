@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.gaojihealth.android</groupId>
-  <artifactId>im-eclient</artifactId>
+  <artifactId>im-client</artifactId>
   <version>0.0.1</version>
   <packaging>aar</packaging>
   <name>im-client</name>

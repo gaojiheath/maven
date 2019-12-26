@@ -6,7 +6,7 @@
   <artifactId>im-emojilibrary</artifactId>
   <version>0.0.1</version>
   <packaging>aar</packaging>
-  <name>pusim-emojilibrary</name>
+  <name>im-emojilibrary</name>
   <dependencies>
     <dependency>
       <groupId>androidx.appcompat</groupId>
