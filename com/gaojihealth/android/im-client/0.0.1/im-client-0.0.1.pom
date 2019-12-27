@@ -9,7 +9,7 @@
   <name>im-client</name>
   <dependencies>
     <dependency>
-      <groupId>im-android</groupId>
+      <groupId>androidlib</groupId>
       <artifactId>mars-core-release</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
