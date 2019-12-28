@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.gaojihealth.android</groupId>
   <artifactId>im-imagepicker</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <packaging>aar</packaging>
   <name>im-imagepicker</name>
   <dependencies>
